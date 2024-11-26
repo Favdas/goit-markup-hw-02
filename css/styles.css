@@ -218,7 +218,8 @@ ul {
     color: #f4f4fd;
 }
 
-.header-menu li:first-child .nav-link {
+.header-menu-list li:first-child, 
+.nav-link {
     font-weight: 500;
     /* Жирність шрифту */
     letter-spacing: 0.02em;
