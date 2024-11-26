@@ -220,6 +220,9 @@ ul {
 
 .header-menu li:first-child .nav-link {
     font-weight: 500;
+    /* Жирність шрифту */
     letter-spacing: 0.02em;
+    /* Відступ між літерами */
     color: #2e2f42;
+    /* Колір тексту */
 }
