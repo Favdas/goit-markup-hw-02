@@ -218,12 +218,6 @@ ul {
     color: #f4f4fd;
 }
 
-.header-menu-list li:first-child, 
-.nav-link {
-    font-weight: 500;
-    /* Жирність шрифту */
-    letter-spacing: 0.02em;
-    /* Відступ між літерами */
-    color: #2e2f42;
-    /* Колір тексту */
+.header-menu .nav-link:hover {
+    color: #404bbf;
 }
